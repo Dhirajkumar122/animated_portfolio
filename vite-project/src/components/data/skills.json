@@ -1,0 +1,43 @@
+[
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "NPM",
+    "imageSrc": "skills/npm.png"
+  }
+]
+

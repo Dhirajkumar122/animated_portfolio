@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend Developer Intern",
+    "organisation": "Coalition Technology",
+    "startDate": "Jan, 2021",
+    "endDate": "Apr, 2021",
+    "location": "Remote",
+    "experiences": [
+      "Developed responsive web applications using HTML, CSS, and JavaScript.",
+      "Collaborated with the design team to implement user-friendly interfaces."
+    ],
+    "imageSrc": "company/coalition tech.png"
+  },
+  {
+    "id": 2,
+    "role": "Frontend Developer Intern",
+    "organisation": "Bharat Intern",
+    "startDate": "Mar, 2022",
+    "endDate": "May, 2022",
+    "location": "Remote",
+    "experiences": [
+      "Worked on the front end of the web.",
+      "Interacted with errors and debugging during the project.",
+      "Used HTML, CSS, JavaScript."
+    ],
+    "imageSrc": "company/bharat_intern.png"
+  },
+  {
+    "id": 3,
+    "role": "Software Developer",
+    "organisation": "tachYum",
+    "startDate": "May, 2023",
+    "endDate": "Oct, 2023",
+    "location": "Remote",
+    "experiences": [
+      "Designed and implemented RESTful APIs to facilitate seamless communication between front-end and back-end services.",
+      "Managed and optimized MongoDB databases for efficient data storage and retrieval.",
+      "Built responsive and dynamic user interfaces with React.js, utilizing state management libraries like Redux.",
+      "Developed server-side logic with Express.js and Node.js, ensuring high performance and security."
+    ],
+    "imageSrc": "company/techyum.png"
+  },
+  {
+    "id": 4,
+    "role": "Software Developer (.NET)",
+    "organisation": "Sarvodaya Infotech",
+    "startDate": "Apr, 2024",
+    "endDate": "Jul, 2024",
+    "location": "Remote",
+    "experiences": [
+      "Developed and maintained web applications using ASP.NET and Web Forms.",
+      "Designed and implemented database schemas and stored procedures in SQL Server for efficient data management.",
+      "Built interactive and dynamic web forms with ASP.NET Web Forms, ensuring a seamless user experience."
+    ],
+    "imageSrc": "company/sarvodaya infotech.png"
+  }
+]
